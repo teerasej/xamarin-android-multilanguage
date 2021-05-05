@@ -1,0 +1,6 @@
+﻿<resources>
+    <string name="app_name">หลายภาษา</string>
+    <string name="action_settings">การตั้งค่า</string>
+
+    <string name="hello">สวัสดีจ้า</string>
+</resources>
