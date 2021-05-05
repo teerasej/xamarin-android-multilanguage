@@ -2,5 +2,6 @@
     <string name="app_name">multilanguage</string>
     <string name="action_settings">Settings</string>
 
-    <string name="hello">Hello World</string>
+    <string name="text_hello">Hello World</string>
+    <string name="button_text_change_langauge">Change Language</string>
 </resources>

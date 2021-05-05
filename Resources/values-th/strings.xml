@@ -2,5 +2,6 @@
     <string name="app_name">หลายภาษา</string>
     <string name="action_settings">การตั้งค่า</string>
 
-    <string name="hello">สวัสดีจ้า</string>
+    <string name="text_hello">สวัสดีจ้า</string>
+    <string name="button_text_change_langauge">เปลี่ยนภาษา</string>
 </resources>

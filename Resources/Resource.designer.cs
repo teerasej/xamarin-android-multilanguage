@@ -4517,31 +4517,31 @@ namespace multilanguage
 			public const int bottom_sheet_behavior = 2131558430;
 			
 			// aapt resource value: 0x7F0D001F
-			public const int character_counter_content_description = 2131558431;
+			public const int button_text_change_langauge = 2131558431;
 			
 			// aapt resource value: 0x7F0D0020
-			public const int character_counter_pattern = 2131558432;
+			public const int character_counter_content_description = 2131558432;
 			
 			// aapt resource value: 0x7F0D0021
-			public const int copy_toast_msg = 2131558433;
+			public const int character_counter_pattern = 2131558433;
 			
 			// aapt resource value: 0x7F0D0022
-			public const int fab_transformation_scrim_behavior = 2131558434;
+			public const int copy_toast_msg = 2131558434;
 			
 			// aapt resource value: 0x7F0D0023
-			public const int fab_transformation_sheet_behavior = 2131558435;
+			public const int fab_transformation_scrim_behavior = 2131558435;
 			
 			// aapt resource value: 0x7F0D0024
-			public const int fallback_menu_item_copy_link = 2131558436;
+			public const int fab_transformation_sheet_behavior = 2131558436;
 			
 			// aapt resource value: 0x7F0D0025
-			public const int fallback_menu_item_open_in_browser = 2131558437;
+			public const int fallback_menu_item_copy_link = 2131558437;
 			
 			// aapt resource value: 0x7F0D0026
-			public const int fallback_menu_item_share_link = 2131558438;
+			public const int fallback_menu_item_open_in_browser = 2131558438;
 			
 			// aapt resource value: 0x7F0D0027
-			public const int hello = 2131558439;
+			public const int fallback_menu_item_share_link = 2131558439;
 			
 			// aapt resource value: 0x7F0D0028
 			public const int hide_bottom_view_on_scroll_behavior = 2131558440;
@@ -4569,6 +4569,9 @@ namespace multilanguage
 			
 			// aapt resource value: 0x7F0D0030
 			public const int status_bar_notification_info_overflow = 2131558448;
+			
+			// aapt resource value: 0x7F0D0031
+			public const int text_hello = 2131558449;
 			
 			static String()
 			{

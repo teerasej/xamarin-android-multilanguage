@@ -30,8 +30,12 @@ namespace multilanguage
                 overrideConfiguration.SetLocale(locale);
 
                 var context = CreateConfigurationContext(overrideConfiguration);
-                var stringHello = context.GetString(Resource.String.hello);
+
+                var stringHello = context.GetString(Resource.String.text_hello);
                 textHello.Text = stringHello;
+
+                var stringButton = context.GetString(Resource.String.button_text_change_langauge);
+                buttonSwitchLanguage.Text = stringButton;
             };
 
         }
